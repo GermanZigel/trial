@@ -2,7 +2,6 @@ package main
 import "fmt"
 
 //определите функцию download()
-////после реверта
 
 
 func main() {
