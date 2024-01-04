@@ -1,7 +1,12 @@
 package main // Имя текущего пакета
 
 // Импорты других пакетов
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/devomot/jenitter/most"
+	_ "github.com/devomot/jenitter/most"
+)
 
 // Неявная инициализация пакета
 func init() {
@@ -14,5 +19,6 @@ func main() {
 }
 
 func foo() {
-	fmt.Println("Foo!")
+	fmt.Println("Zigel")
+	most.Mcad()
 }
