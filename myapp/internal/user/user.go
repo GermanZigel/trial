@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	_ "github.com/GermanZigel/trial/blob/main/myapp/pkg/test21"
+	_ "github.com/GermanZigel/trial/myapp/pkg/test21"
 )
 
 func main() {
