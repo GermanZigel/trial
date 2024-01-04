@@ -1,4 +1,4 @@
-package main
+package test21
 
 var (
 	var1 = "var1"
